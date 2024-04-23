@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java and python using project based learning,trying to improve myself in this coding game, and using github as my source control
 - 💞️ I’m looking to collaborate on different projects and eventually start using js more. all my progress will be here public.
 - 📫 How to reach me : email: akachukwudike.ndubuisiulokwem@snhu.edu
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love brazilian jui justu!
 
 <!---
